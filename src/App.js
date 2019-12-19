@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>HI</h1>
+      <h1>HELLO THERE</h1>
       <h2>
         Deployed with{" "}
         <a
